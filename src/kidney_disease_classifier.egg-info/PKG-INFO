@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: kidney-disease-classifier
+Version: 0.1.0
+Summary: A small package for kidney disease classification
+Home-page: https://github.com/Ayo-Cyber/KIDNEY_DISEASE_CLASSIFiCATION_MLFLOW
+Author: Ayo-Cyber
+Author-email: atunraseayomide@gmail.com
+Project-URL: Bug Tracker, https://github.com/Ayo-Cyber/KIDNEY_DISEASE_CLASSIFiCATION_MLFLOW/issues
+
+# Kidney_Disease_Classification_MLflow
